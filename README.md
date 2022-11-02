@@ -4,7 +4,7 @@ A version of Menlo font with hint
 
 :point_right: goto [release page ](https://github.com/nguyenvanlongweb/menlo-patch-hint/releases) to download and use.
 
-Menlo is one of the default monochrome fonts on MacOS, but it doesn't come equipped with hints. So it doesn't render well on windows with low dpi screens, so I made a version with hints for it. And this is a great font, you can see its original artifact with a suggested version via the image below.
+Menlo is one of the default monospace fonts on MacOS, but it doesn't come equipped with hints. So it doesn't render well on windows with low dpi screens, so I made a version with hints for it. And this is a great font, you can see its original artifact with a suggested version via the image below.
 
 
 This is the original font image without hint:
