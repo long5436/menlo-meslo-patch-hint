@@ -2,26 +2,26 @@
   font-family: mesloHint;
   font-style: normal;
   font-weight: normal;
-  src: url('../hinted/MesloLGS-Regular.ttf');
+  src: url('https://raw.githubusercontent.com/longluuly/menlo-meslo-patch-hint/master/hinted/MesloLGS-Regular.ttf');
 }
 
 @font-face {
   font-family: mesloHint;
   font-style: italic;
   font-weight: normal;
-  src: url('../hinted/MesloLGS-Italic.ttf');
+  src: url('https://raw.githubusercontent.com/longluuly/menlo-meslo-patch-hint/master/hinted/MesloLGS-Italic.ttf');
 }
 
 @font-face {
   font-family: mesloHint;
   font-style: normal;
   font-weight: bold;
-  src: url('../hinted/MesloLGS-Bold.ttf');
+  src: url('https://raw.githubusercontent.com/longluuly/menlo-meslo-patch-hint/master/hinted/MesloLGS-Bold.ttf');
 }
 
 @font-face {
   font-family: mesloHint;
   font-style: italic;
   font-weight: bold;
-  src: url('../hinted/MesloLGS-BoldItalic.ttf');
+  src: url('https://raw.githubusercontent.com/longluuly/menlo-meslo-patch-hint/master/hinted/MesloLGS-BoldItalic.ttf');
 }

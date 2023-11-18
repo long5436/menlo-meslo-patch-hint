@@ -1,9 +1,9 @@
 @font-face {
   font-family: ligaMenlo;
-  src: url('../hinted/LigaMenlo-Regular.ttf');
+  src: url('https://raw.githubusercontent.com/longluuly/menlo-meslo-patch-hint/master/hinted/LigaMenlo-Regular.ttf');
 }
 
 @font-face {
   font-family: MenloPatchHint;
-  src: url('../hinted/Menlo-Patch-Hint.ttf');
+  src: url('https://raw.githubusercontent.com/longluuly/menlo-meslo-patch-hint/master/hinted/Menlo-Patch-Hint.ttf');
 }
