@@ -1,0 +1,27 @@
+@font-face {
+  font-family: mesloHint;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../hinted/MesloLGS-Regular.ttf');
+}
+
+@font-face {
+  font-family: mesloHint;
+  font-style: italic;
+  font-weight: normal;
+  src: url('../hinted/MesloLGS-Italic.ttf');
+}
+
+@font-face {
+  font-family: mesloHint;
+  font-style: normal;
+  font-weight: bold;
+  src: url('../hinted/MesloLGS-Bold.ttf');
+}
+
+@font-face {
+  font-family: mesloHint;
+  font-style: italic;
+  font-weight: bold;
+  src: url('../hinted/MesloLGS-BoldItalic.ttf');
+}
